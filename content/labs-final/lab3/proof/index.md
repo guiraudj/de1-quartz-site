@@ -6,6 +6,7 @@ permalink: /labs-final/lab3/proof/
 
 
 
+
 <!-- BEGIN:downloads -->
 ## Downloads
 - [plan_broadcast.txt](/labs-final/lab3/proof/plan_broadcast.txt)
