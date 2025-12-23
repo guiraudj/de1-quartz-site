@@ -17,6 +17,7 @@ permalink: /labs-final/lab3/.ipynb_checkpoints/
 
 
 
+
 <!-- BEGIN:downloads -->
 ## Downloads
 - [lab3_metrics_log-checkpoint.csv](/labs-final/lab3/.ipynb_checkpoints/lab3_metrics_log-checkpoint.csv)
