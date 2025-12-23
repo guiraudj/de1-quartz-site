@@ -2,12 +2,7 @@
 title: Home
 publish: true
 ---
----
-title: Portfolio Data Engineering - Justine Guirauden
-description: Portfolio des projets et laboratoires de Data Engineering 1 (ESIEE Paris).
----
-
-# Bienvenue sur mon Portfolio
+# Bienvenue sur notre site Data Engineering
 
 > [!abstract] Informations
 > * **Binome Projet :** Justine Guirauden et Volcy Desmazures
