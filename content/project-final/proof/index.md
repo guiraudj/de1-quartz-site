@@ -9,6 +9,7 @@ permalink: /project-final/proof/
 
 
 
+
 <!-- BEGIN:downloads -->
 ## Downloads
 - [optimized_q3_plan.txt](/project-final/proof/optimized_q3_plan.txt)
