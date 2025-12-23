@@ -10,6 +10,7 @@ permalink: /labs-final/lab2/.ipynb_checkpoints/
 
 
 
+
 <!-- BEGIN:downloads -->
 ## Downloads
 - [lab2_metrics_log-checkpoint.csv](/labs-final/lab2/.ipynb_checkpoints/lab2_metrics_log-checkpoint.csv)

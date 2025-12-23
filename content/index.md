@@ -46,7 +46,7 @@ Voici l'ensemble des travaux pratiques réalisés, couvrant les fondamentaux du 
 
 * **Lab 1 : Environnement & Docker**
     * *Acquis :* Installation de l'environnement, conteneurisation.
-    * [[labs-final/lab1/assignment1_esiee|Accéder au Lab 1]]
+    * [[static/nb/labs-final/lab1/assignment1_esiee.html|Accéder au Lab 1]]
 
 * **Lab 2 : SQL & Modélisation de données**
     * *Acquis :* Requêtes analytiques, structuration de la donnée.
