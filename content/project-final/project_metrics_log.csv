@@ -1,0 +1,7 @@
+run_id,query,phase,files_read,input_size_bytes,shuffle_read_bytes,shuffle_write_bytes,elapsed_ms,notes,timestamp
+r1,Q1,baseline,,11.1 GiB,4.5 MiB,80.5 KiB,26743.38,Auto-captured. Automated run,2025-11-19T20:45:51.920826
+r1,Q1,optimized,,11.1 GiB,4.5 MiB,80.5 KiB,29775.38,Auto-captured. Narrow Projection + SortWithinPartitions,2025-11-19T21:03:17.319280
+r1,Q2,baseline,,11.1 GiB,57.9 KiB,638.0 B,28746.2,Auto-captured. ,2025-11-19T21:32:30.205548
+r1,Q2,optimized,,11.1 GiB,57.9 KiB,638.0 B,31492.24,Auto-captured. Projection + Sort(Nutriscore),2025-11-19T21:33:01.869738
+r1,Q3,baseline,,11.1 GiB,92.6 KiB,1022.0 B,38191.44,Auto-captured. ,2025-11-19T21:49:40.826164
+r1,Q3,optimized,,11.1 GiB,92.6 KiB,1022.0 B,24528.79,Auto-captured. Projection + Sort(Year),2025-11-19T21:50:05.467396

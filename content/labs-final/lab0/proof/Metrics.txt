@@ -1,0 +1,5 @@
+Storage memory: 2.5 MiB / 434.4 MiB
+Total tasks: 28
+Input size: 3.6 KiB
+Shuffle read: 804 B
+Shuffle write: 804 B

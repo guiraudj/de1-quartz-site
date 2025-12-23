@@ -1,0 +1,299 @@
+run_id,task,note,files_read,input_size_bytes,shuffle_read_bytes,shuffle_write_bytes,timestamp
+ingest_plan,ingest_plan,ingest operational tables,0,0,59,0,2025-10-27T18:36:35.427568
+ingest_plan,ingest_plan,ingest operational tables,0,0,0,0,2025-10-27T18:36:35.427589
+ingest_plan,ingest_plan,ingest operational tables,638,12558,0,59,2025-10-27T18:36:35.427592
+ingest_plan,ingest_plan,ingest operational tables,0,0,59,0,2025-10-27T18:36:35.427595
+ingest_plan,ingest_plan,ingest operational tables,0,0,0,0,2025-10-27T18:36:35.427597
+ingest_plan,ingest_plan,ingest operational tables,220,6005,0,59,2025-10-27T18:36:35.427600
+ingest_plan,ingest_plan,ingest operational tables,0,0,59,0,2025-10-27T18:36:35.427602
+ingest_plan,ingest_plan,ingest operational tables,0,0,0,0,2025-10-27T18:36:35.427605
+ingest_plan,ingest_plan,ingest operational tables,60,1560,0,59,2025-10-27T18:36:35.427607
+ingest_plan,ingest_plan,ingest operational tables,0,0,59,0,2025-10-27T18:36:35.427609
+ingest_plan,ingest_plan,ingest operational tables,0,0,0,0,2025-10-27T18:36:35.427612
+ingest_plan,ingest_plan,ingest operational tables,9,153,0,59,2025-10-27T18:36:35.427614
+ingest_plan,ingest_plan,ingest operational tables,0,0,59,0,2025-10-27T18:36:35.427616
+ingest_plan,ingest_plan,ingest operational tables,0,0,0,0,2025-10-27T18:36:35.427619
+ingest_plan,ingest_plan,ingest operational tables,8,109,0,59,2025-10-27T18:36:35.427621
+ingest_plan,ingest_plan,ingest operational tables,0,0,59,0,2025-10-27T18:36:35.427624
+ingest_plan,ingest_plan,ingest operational tables,0,0,0,0,2025-10-27T18:36:35.427626
+ingest_plan,ingest_plan,ingest operational tables,24,1289,0,59,2025-10-27T18:36:35.427629
+ingest_plan,ingest_plan,ingest operational tables,0,0,59,0,2025-10-27T18:36:35.427632
+ingest_plan,ingest_plan,ingest operational tables,0,0,0,0,2025-10-27T18:36:35.427635
+ingest_plan,ingest_plan,ingest operational tables,0,0,0,0,2025-10-27T18:36:35.427638
+ingest_plan,ingest_plan,ingest operational tables,0,0,4981,59,2025-10-27T18:36:35.427641
+ingest_plan,ingest_plan,ingest operational tables,0,0,0,0,2025-10-27T18:36:35.427643
+ingest_plan,ingest_plan,ingest operational tables,638,12558,0,4981,2025-10-27T18:36:35.427646
+ingest_plan,ingest_plan,ingest operational tables,220,6005,0,0,2025-10-27T18:36:35.427649
+ingest_plan,ingest_plan,ingest operational tables,60,1560,0,0,2025-10-27T18:36:35.427651
+ingest_plan,ingest_plan,ingest operational tables,0,0,59,0,2025-10-27T18:36:35.427654
+ingest_plan,ingest_plan,ingest operational tables,0,0,0,0,2025-10-27T18:36:35.427656
+ingest_plan,ingest_plan,ingest operational tables,0,0,0,0,2025-10-27T18:36:35.427659
+ingest_plan,ingest_plan,ingest operational tables,0,0,4981,59,2025-10-27T18:36:35.427661
+ingest_plan,ingest_plan,ingest operational tables,0,0,0,0,2025-10-27T18:36:35.427663
+ingest_plan,ingest_plan,ingest operational tables,638,12558,0,4981,2025-10-27T18:36:35.427666
+ingest_plan,ingest_plan,ingest operational tables,60,1560,0,0,2025-10-27T18:36:35.427668
+ingest_plan,ingest_plan,ingest operational tables,220,6005,0,0,2025-10-27T18:36:35.427670
+ingest_plan,ingest_plan,ingest operational tables,638,12558,0,0,2025-10-27T18:36:35.427673
+ingest_plan,ingest_plan,ingest operational tables,60,1560,0,0,2025-10-27T18:36:35.427675
+ingest_plan,ingest_plan,ingest operational tables,220,6005,0,0,2025-10-27T18:36:35.427677
+ingest_plan,ingest_plan,ingest operational tables,24,1289,0,0,2025-10-27T18:36:35.427680
+ingest_plan,ingest_plan,ingest operational tables,0,0,4981,0,2025-10-27T18:36:35.427683
+ingest_plan,ingest_plan,ingest operational tables,0,0,0,0,2025-10-27T18:36:35.427685
+ingest_plan,ingest_plan,ingest operational tables,220,6005,0,4981,2025-10-27T18:36:35.427688
+ingest_plan,ingest_plan,ingest operational tables,60,1560,0,0,2025-10-27T18:36:35.427690
+ingest_plan,ingest_plan,ingest operational tables,9,153,0,0,2025-10-27T18:36:35.427693
+ingest_plan,ingest_plan,ingest operational tables,8,109,0,0,2025-10-27T18:36:35.427695
+ingest_plan,ingest_plan,ingest operational tables,24,1289,0,0,2025-10-27T18:36:35.427697
+ingest_plan,ingest_plan,ingest operational tables,0,0,59,0,2025-10-27T18:36:35.427700
+ingest_plan,ingest_plan,ingest operational tables,0,0,0,0,2025-10-27T18:36:35.427703
+ingest_plan,ingest_plan,ingest operational tables,638,12558,0,59,2025-10-27T18:36:35.427706
+ingest_plan,ingest_plan,ingest operational tables,0,0,59,0,2025-10-27T18:36:35.427708
+ingest_plan,ingest_plan,ingest operational tables,0,0,0,0,2025-10-27T18:36:35.427711
+ingest_plan,ingest_plan,ingest operational tables,220,6005,0,59,2025-10-27T18:36:35.427713
+ingest_plan,ingest_plan,ingest operational tables,0,0,59,0,2025-10-27T18:36:35.427715
+ingest_plan,ingest_plan,ingest operational tables,0,0,0,0,2025-10-27T18:36:35.427718
+ingest_plan,ingest_plan,ingest operational tables,60,1560,0,59,2025-10-27T18:36:35.427720
+ingest_plan,ingest_plan,ingest operational tables,0,0,59,0,2025-10-27T18:36:35.427723
+ingest_plan,ingest_plan,ingest operational tables,0,0,0,0,2025-10-27T18:36:35.427725
+ingest_plan,ingest_plan,ingest operational tables,9,153,0,59,2025-10-27T18:36:35.427728
+ingest_plan,ingest_plan,ingest operational tables,0,0,59,0,2025-10-27T18:36:35.427730
+ingest_plan,ingest_plan,ingest operational tables,0,0,0,0,2025-10-27T18:36:35.427732
+ingest_plan,ingest_plan,ingest operational tables,8,109,0,59,2025-10-27T18:36:35.427734
+ingest_plan,ingest_plan,ingest operational tables,0,0,59,0,2025-10-27T18:36:35.427737
+ingest_plan,ingest_plan,ingest operational tables,0,0,0,0,2025-10-27T18:36:35.427739
+ingest_plan,ingest_plan,ingest operational tables,24,1289,0,59,2025-10-27T18:36:35.427741
+fact_join,fact_join,build fact_sales with SKs,0,0,59,0,2025-10-27T18:36:57.032256
+fact_join,fact_join,build fact_sales with SKs,0,0,0,0,2025-10-27T18:36:57.032274
+fact_join,fact_join,build fact_sales with SKs,638,12558,0,59,2025-10-27T18:36:57.032277
+fact_join,fact_join,build fact_sales with SKs,0,0,59,0,2025-10-27T18:36:57.032299
+fact_join,fact_join,build fact_sales with SKs,0,0,0,0,2025-10-27T18:36:57.032310
+fact_join,fact_join,build fact_sales with SKs,220,6005,0,59,2025-10-27T18:36:57.032313
+fact_join,fact_join,build fact_sales with SKs,0,0,59,0,2025-10-27T18:36:57.032316
+fact_join,fact_join,build fact_sales with SKs,0,0,0,0,2025-10-27T18:36:57.032318
+fact_join,fact_join,build fact_sales with SKs,60,1560,0,59,2025-10-27T18:36:57.032322
+fact_join,fact_join,build fact_sales with SKs,0,0,59,0,2025-10-27T18:36:57.032324
+fact_join,fact_join,build fact_sales with SKs,0,0,0,0,2025-10-27T18:36:57.032327
+fact_join,fact_join,build fact_sales with SKs,9,153,0,59,2025-10-27T18:36:57.032329
+fact_join,fact_join,build fact_sales with SKs,0,0,59,0,2025-10-27T18:36:57.032347
+fact_join,fact_join,build fact_sales with SKs,0,0,0,0,2025-10-27T18:36:57.032350
+fact_join,fact_join,build fact_sales with SKs,8,109,0,59,2025-10-27T18:36:57.032352
+fact_join,fact_join,build fact_sales with SKs,0,0,59,0,2025-10-27T18:36:57.032358
+fact_join,fact_join,build fact_sales with SKs,0,0,0,0,2025-10-27T18:36:57.032362
+fact_join,fact_join,build fact_sales with SKs,24,1289,0,59,2025-10-27T18:36:57.032365
+fact_join,fact_join,build fact_sales with SKs,0,0,59,0,2025-10-27T18:36:57.032367
+fact_join,fact_join,build fact_sales with SKs,0,0,0,0,2025-10-27T18:36:57.032370
+fact_join,fact_join,build fact_sales with SKs,0,0,0,0,2025-10-27T18:36:57.032373
+fact_join,fact_join,build fact_sales with SKs,0,0,4981,59,2025-10-27T18:36:57.032376
+fact_join,fact_join,build fact_sales with SKs,0,0,0,0,2025-10-27T18:36:57.032378
+fact_join,fact_join,build fact_sales with SKs,638,12558,0,4981,2025-10-27T18:36:57.032381
+fact_join,fact_join,build fact_sales with SKs,220,6005,0,0,2025-10-27T18:36:57.032382
+fact_join,fact_join,build fact_sales with SKs,60,1560,0,0,2025-10-27T18:36:57.032384
+fact_join,fact_join,build fact_sales with SKs,0,0,59,0,2025-10-27T18:36:57.032385
+fact_join,fact_join,build fact_sales with SKs,0,0,0,0,2025-10-27T18:36:57.032387
+fact_join,fact_join,build fact_sales with SKs,0,0,0,0,2025-10-27T18:36:57.032388
+fact_join,fact_join,build fact_sales with SKs,0,0,4981,59,2025-10-27T18:36:57.032389
+fact_join,fact_join,build fact_sales with SKs,0,0,0,0,2025-10-27T18:36:57.032391
+fact_join,fact_join,build fact_sales with SKs,638,12558,0,4981,2025-10-27T18:36:57.032392
+fact_join,fact_join,build fact_sales with SKs,60,1560,0,0,2025-10-27T18:36:57.032394
+fact_join,fact_join,build fact_sales with SKs,220,6005,0,0,2025-10-27T18:36:57.032396
+fact_join,fact_join,build fact_sales with SKs,638,12558,0,0,2025-10-27T18:36:57.032397
+fact_join,fact_join,build fact_sales with SKs,60,1560,0,0,2025-10-27T18:36:57.032399
+fact_join,fact_join,build fact_sales with SKs,220,6005,0,0,2025-10-27T18:36:57.032400
+fact_join,fact_join,build fact_sales with SKs,24,1289,0,0,2025-10-27T18:36:57.032401
+fact_join,fact_join,build fact_sales with SKs,0,0,4981,0,2025-10-27T18:36:57.032403
+fact_join,fact_join,build fact_sales with SKs,0,0,0,0,2025-10-27T18:36:57.032404
+fact_join,fact_join,build fact_sales with SKs,220,6005,0,4981,2025-10-27T18:36:57.032405
+fact_join,fact_join,build fact_sales with SKs,60,1560,0,0,2025-10-27T18:36:57.032407
+fact_join,fact_join,build fact_sales with SKs,9,153,0,0,2025-10-27T18:36:57.032409
+fact_join,fact_join,build fact_sales with SKs,8,109,0,0,2025-10-27T18:36:57.032410
+fact_join,fact_join,build fact_sales with SKs,24,1289,0,0,2025-10-27T18:36:57.032411
+fact_join,fact_join,build fact_sales with SKs,0,0,59,0,2025-10-27T18:36:57.032413
+fact_join,fact_join,build fact_sales with SKs,0,0,0,0,2025-10-27T18:36:57.032414
+fact_join,fact_join,build fact_sales with SKs,638,12558,0,59,2025-10-27T18:36:57.032416
+fact_join,fact_join,build fact_sales with SKs,0,0,59,0,2025-10-27T18:36:57.032417
+fact_join,fact_join,build fact_sales with SKs,0,0,0,0,2025-10-27T18:36:57.032418
+fact_join,fact_join,build fact_sales with SKs,220,6005,0,59,2025-10-27T18:36:57.032420
+fact_join,fact_join,build fact_sales with SKs,0,0,59,0,2025-10-27T18:36:57.032421
+fact_join,fact_join,build fact_sales with SKs,0,0,0,0,2025-10-27T18:36:57.032423
+fact_join,fact_join,build fact_sales with SKs,60,1560,0,59,2025-10-27T18:36:57.032424
+fact_join,fact_join,build fact_sales with SKs,0,0,59,0,2025-10-27T18:36:57.032426
+fact_join,fact_join,build fact_sales with SKs,0,0,0,0,2025-10-27T18:36:57.032427
+fact_join,fact_join,build fact_sales with SKs,9,153,0,59,2025-10-27T18:36:57.032429
+fact_join,fact_join,build fact_sales with SKs,0,0,59,0,2025-10-27T18:36:57.032430
+fact_join,fact_join,build fact_sales with SKs,0,0,0,0,2025-10-27T18:36:57.032432
+fact_join,fact_join,build fact_sales with SKs,8,109,0,59,2025-10-27T18:36:57.032433
+fact_join,fact_join,build fact_sales with SKs,0,0,59,0,2025-10-27T18:36:57.032434
+fact_join,fact_join,build fact_sales with SKs,0,0,0,0,2025-10-27T18:36:57.032436
+fact_join,fact_join,build fact_sales with SKs,24,1289,0,59,2025-10-27T18:36:57.032437
+caseA_join_then_project,caseA_join_then_project,join then aggregate,0,0,59,0,2025-10-27T18:37:07.746438
+caseA_join_then_project,caseA_join_then_project,join then aggregate,0,0,0,0,2025-10-27T18:37:07.746458
+caseA_join_then_project,caseA_join_then_project,join then aggregate,0,0,0,0,2025-10-27T18:37:07.746461
+caseA_join_then_project,caseA_join_then_project,join then aggregate,0,0,4981,59,2025-10-27T18:37:07.746464
+caseA_join_then_project,caseA_join_then_project,join then aggregate,0,0,0,0,2025-10-27T18:37:07.746467
+caseA_join_then_project,caseA_join_then_project,join then aggregate,638,12558,0,4981,2025-10-27T18:37:07.746470
+caseA_join_then_project,caseA_join_then_project,join then aggregate,60,1560,0,0,2025-10-27T18:37:07.746473
+caseA_join_then_project,caseA_join_then_project,join then aggregate,220,6005,0,0,2025-10-27T18:37:07.746475
+caseA_join_then_project,caseA_join_then_project,join then aggregate,638,12558,0,0,2025-10-27T18:37:07.746478
+caseA_join_then_project,caseA_join_then_project,join then aggregate,220,6005,0,0,2025-10-27T18:37:07.746480
+caseA_join_then_project,caseA_join_then_project,join then aggregate,24,1289,0,0,2025-10-27T18:37:07.746483
+caseA_join_then_project,caseA_join_then_project,join then aggregate,60,1560,0,0,2025-10-27T18:37:07.746485
+caseA_join_then_project,caseA_join_then_project,join then aggregate,0,0,4981,0,2025-10-27T18:37:07.746488
+caseA_join_then_project,caseA_join_then_project,join then aggregate,0,0,0,0,2025-10-27T18:37:07.746491
+caseA_join_then_project,caseA_join_then_project,join then aggregate,220,6005,0,4981,2025-10-27T18:37:07.746494
+caseA_join_then_project,caseA_join_then_project,join then aggregate,60,1560,0,0,2025-10-27T18:37:07.746496
+caseA_join_then_project,caseA_join_then_project,join then aggregate,9,153,0,0,2025-10-27T18:37:07.746499
+caseA_join_then_project,caseA_join_then_project,join then aggregate,8,109,0,0,2025-10-27T18:37:07.746502
+caseA_join_then_project,caseA_join_then_project,join then aggregate,24,1289,0,0,2025-10-27T18:37:07.746506
+caseA_join_then_project,caseA_join_then_project,join then aggregate,0,0,59,0,2025-10-27T18:37:07.746509
+caseA_join_then_project,caseA_join_then_project,join then aggregate,0,0,0,0,2025-10-27T18:37:07.746512
+caseA_join_then_project,caseA_join_then_project,join then aggregate,638,12558,0,59,2025-10-27T18:37:07.746515
+caseA_join_then_project,caseA_join_then_project,join then aggregate,0,0,59,0,2025-10-27T18:37:07.746517
+caseA_join_then_project,caseA_join_then_project,join then aggregate,0,0,0,0,2025-10-27T18:37:07.746520
+caseA_join_then_project,caseA_join_then_project,join then aggregate,220,6005,0,59,2025-10-27T18:37:07.746523
+caseA_join_then_project,caseA_join_then_project,join then aggregate,0,0,59,0,2025-10-27T18:37:07.746526
+caseA_join_then_project,caseA_join_then_project,join then aggregate,0,0,0,0,2025-10-27T18:37:07.746529
+caseA_join_then_project,caseA_join_then_project,join then aggregate,60,1560,0,59,2025-10-27T18:37:07.746531
+caseA_join_then_project,caseA_join_then_project,join then aggregate,0,0,59,0,2025-10-27T18:37:07.746535
+caseA_join_then_project,caseA_join_then_project,join then aggregate,0,0,0,0,2025-10-27T18:37:07.746537
+caseA_join_then_project,caseA_join_then_project,join then aggregate,9,153,0,59,2025-10-27T18:37:07.746540
+caseA_join_then_project,caseA_join_then_project,join then aggregate,0,0,59,0,2025-10-27T18:37:07.746543
+caseA_join_then_project,caseA_join_then_project,join then aggregate,0,0,0,0,2025-10-27T18:37:07.746545
+caseA_join_then_project,caseA_join_then_project,join then aggregate,8,109,0,59,2025-10-27T18:37:07.746549
+caseA_join_then_project,caseA_join_then_project,join then aggregate,0,0,59,0,2025-10-27T18:37:07.746551
+caseA_join_then_project,caseA_join_then_project,join then aggregate,0,0,0,0,2025-10-27T18:37:07.746554
+caseA_join_then_project,caseA_join_then_project,join then aggregate,24,1289,0,59,2025-10-27T18:37:07.746557
+caseA_join_then_project,caseA_join_then_project,join then aggregate,0,0,59,0,2025-10-27T18:37:07.746560
+caseA_join_then_project,caseA_join_then_project,join then aggregate,0,0,0,0,2025-10-27T18:37:07.746564
+caseA_join_then_project,caseA_join_then_project,join then aggregate,0,0,0,0,2025-10-27T18:37:07.746566
+caseA_join_then_project,caseA_join_then_project,join then aggregate,0,0,4981,59,2025-10-27T18:37:07.746569
+caseA_join_then_project,caseA_join_then_project,join then aggregate,0,0,0,0,2025-10-27T18:37:07.746572
+caseA_join_then_project,caseA_join_then_project,join then aggregate,638,12558,0,4981,2025-10-27T18:37:07.746575
+caseA_join_then_project,caseA_join_then_project,join then aggregate,220,6005,0,0,2025-10-27T18:37:07.746578
+caseA_join_then_project,caseA_join_then_project,join then aggregate,60,1560,0,0,2025-10-27T18:37:07.746581
+caseA_join_then_project,caseA_join_then_project,join then aggregate,0,0,59,0,2025-10-27T18:37:07.746584
+caseA_join_then_project,caseA_join_then_project,join then aggregate,0,0,0,0,2025-10-27T18:37:07.746586
+caseA_join_then_project,caseA_join_then_project,join then aggregate,0,0,0,0,2025-10-27T18:37:07.746589
+caseA_join_then_project,caseA_join_then_project,join then aggregate,0,0,4981,59,2025-10-27T18:37:07.746592
+caseA_join_then_project,caseA_join_then_project,join then aggregate,0,0,0,0,2025-10-27T18:37:07.746595
+caseA_join_then_project,caseA_join_then_project,join then aggregate,638,12558,0,4981,2025-10-27T18:37:07.746598
+caseA_join_then_project,caseA_join_then_project,join then aggregate,60,1560,0,0,2025-10-27T18:37:07.746601
+caseA_join_then_project,caseA_join_then_project,join then aggregate,220,6005,0,0,2025-10-27T18:37:07.746603
+caseA_join_then_project,caseA_join_then_project,join then aggregate,638,12558,0,0,2025-10-27T18:37:07.746606
+caseA_join_then_project,caseA_join_then_project,join then aggregate,60,1560,0,0,2025-10-27T18:37:07.746609
+caseA_join_then_project,caseA_join_then_project,join then aggregate,220,6005,0,0,2025-10-27T18:37:07.746612
+caseA_join_then_project,caseA_join_then_project,join then aggregate,24,1289,0,0,2025-10-27T18:37:07.746615
+caseA_join_then_project,caseA_join_then_project,join then aggregate,0,0,4981,0,2025-10-27T18:37:07.746618
+caseA_join_then_project,caseA_join_then_project,join then aggregate,0,0,0,0,2025-10-27T18:37:07.746621
+caseA_join_then_project,caseA_join_then_project,join then aggregate,220,6005,0,4981,2025-10-27T18:37:07.746624
+caseA_join_then_project,caseA_join_then_project,join then aggregate,60,1560,0,0,2025-10-27T18:37:07.746627
+caseA_join_then_project,caseA_join_then_project,join then aggregate,9,153,0,0,2025-10-27T18:37:07.746629
+caseA_join_then_project,caseA_join_then_project,join then aggregate,8,109,0,0,2025-10-27T18:37:07.746632
+caseA_join_then_project,caseA_join_then_project,join then aggregate,24,1289,0,0,2025-10-27T18:37:07.746635
+caseA_join_then_project,caseA_join_then_project,join then aggregate,0,0,59,0,2025-10-27T18:37:07.746637
+caseA_join_then_project,caseA_join_then_project,join then aggregate,0,0,0,0,2025-10-27T18:37:07.746641
+caseA_join_then_project,caseA_join_then_project,join then aggregate,638,12558,0,59,2025-10-27T18:37:07.746644
+caseA_join_then_project,caseA_join_then_project,join then aggregate,0,0,59,0,2025-10-27T18:37:07.746646
+caseA_join_then_project,caseA_join_then_project,join then aggregate,0,0,0,0,2025-10-27T18:37:07.746649
+caseA_join_then_project,caseA_join_then_project,join then aggregate,220,6005,0,59,2025-10-27T18:37:07.746651
+caseA_join_then_project,caseA_join_then_project,join then aggregate,0,0,59,0,2025-10-27T18:37:07.746654
+caseA_join_then_project,caseA_join_then_project,join then aggregate,0,0,0,0,2025-10-27T18:37:07.746657
+caseA_join_then_project,caseA_join_then_project,join then aggregate,60,1560,0,59,2025-10-27T18:37:07.746661
+caseA_join_then_project,caseA_join_then_project,join then aggregate,0,0,59,0,2025-10-27T18:37:07.746663
+caseA_join_then_project,caseA_join_then_project,join then aggregate,0,0,0,0,2025-10-27T18:37:07.746666
+caseA_join_then_project,caseA_join_then_project,join then aggregate,9,153,0,59,2025-10-27T18:37:07.746669
+caseA_join_then_project,caseA_join_then_project,join then aggregate,0,0,59,0,2025-10-27T18:37:07.746672
+caseA_join_then_project,caseA_join_then_project,join then aggregate,0,0,0,0,2025-10-27T18:37:07.746675
+caseA_join_then_project,caseA_join_then_project,join then aggregate,8,109,0,59,2025-10-27T18:37:07.746677
+caseA_join_then_project,caseA_join_then_project,join then aggregate,0,0,59,0,2025-10-27T18:37:07.746680
+caseA_join_then_project,caseA_join_then_project,join then aggregate,0,0,0,0,2025-10-27T18:37:07.746683
+caseA_join_then_project,caseA_join_then_project,join then aggregate,24,1289,0,59,2025-10-27T18:37:07.746685
+caseB_project_then_join,caseB_project_then_join,project early then join,0,0,59,0,2025-10-27T18:37:08.115576
+caseB_project_then_join,caseB_project_then_join,project early then join,0,0,0,0,2025-10-27T18:37:08.115588
+caseB_project_then_join,caseB_project_then_join,project early then join,0,0,0,0,2025-10-27T18:37:08.115589
+caseB_project_then_join,caseB_project_then_join,project early then join,0,0,4981,59,2025-10-27T18:37:08.115591
+caseB_project_then_join,caseB_project_then_join,project early then join,0,0,0,0,2025-10-27T18:37:08.115593
+caseB_project_then_join,caseB_project_then_join,project early then join,638,12558,0,4981,2025-10-27T18:37:08.115595
+caseB_project_then_join,caseB_project_then_join,project early then join,60,1560,0,0,2025-10-27T18:37:08.115596
+caseB_project_then_join,caseB_project_then_join,project early then join,220,6005,0,0,2025-10-27T18:37:08.115598
+caseB_project_then_join,caseB_project_then_join,project early then join,0,0,59,0,2025-10-27T18:37:08.115599
+caseB_project_then_join,caseB_project_then_join,project early then join,0,0,0,0,2025-10-27T18:37:08.115601
+caseB_project_then_join,caseB_project_then_join,project early then join,0,0,0,0,2025-10-27T18:37:08.115602
+caseB_project_then_join,caseB_project_then_join,project early then join,0,0,4981,59,2025-10-27T18:37:08.115604
+caseB_project_then_join,caseB_project_then_join,project early then join,0,0,0,0,2025-10-27T18:37:08.115605
+caseB_project_then_join,caseB_project_then_join,project early then join,638,12558,0,4981,2025-10-27T18:37:08.115607
+caseB_project_then_join,caseB_project_then_join,project early then join,60,1560,0,0,2025-10-27T18:37:08.115608
+caseB_project_then_join,caseB_project_then_join,project early then join,220,6005,0,0,2025-10-27T18:37:08.115610
+caseB_project_then_join,caseB_project_then_join,project early then join,638,12558,0,0,2025-10-27T18:37:08.115611
+caseB_project_then_join,caseB_project_then_join,project early then join,220,6005,0,0,2025-10-27T18:37:08.115612
+caseB_project_then_join,caseB_project_then_join,project early then join,24,1289,0,0,2025-10-27T18:37:08.115615
+caseB_project_then_join,caseB_project_then_join,project early then join,60,1560,0,0,2025-10-27T18:37:08.115616
+caseB_project_then_join,caseB_project_then_join,project early then join,0,0,4981,0,2025-10-27T18:37:08.115618
+caseB_project_then_join,caseB_project_then_join,project early then join,0,0,0,0,2025-10-27T18:37:08.115619
+caseB_project_then_join,caseB_project_then_join,project early then join,220,6005,0,4981,2025-10-27T18:37:08.115621
+caseB_project_then_join,caseB_project_then_join,project early then join,60,1560,0,0,2025-10-27T18:37:08.115622
+caseB_project_then_join,caseB_project_then_join,project early then join,9,153,0,0,2025-10-27T18:37:08.115624
+caseB_project_then_join,caseB_project_then_join,project early then join,8,109,0,0,2025-10-27T18:37:08.115625
+caseB_project_then_join,caseB_project_then_join,project early then join,24,1289,0,0,2025-10-27T18:37:08.115627
+caseB_project_then_join,caseB_project_then_join,project early then join,0,0,59,0,2025-10-27T18:37:08.115628
+caseB_project_then_join,caseB_project_then_join,project early then join,0,0,0,0,2025-10-27T18:37:08.115630
+caseB_project_then_join,caseB_project_then_join,project early then join,638,12558,0,59,2025-10-27T18:37:08.115632
+caseB_project_then_join,caseB_project_then_join,project early then join,0,0,59,0,2025-10-27T18:37:08.115633
+caseB_project_then_join,caseB_project_then_join,project early then join,0,0,0,0,2025-10-27T18:37:08.115635
+caseB_project_then_join,caseB_project_then_join,project early then join,220,6005,0,59,2025-10-27T18:37:08.115636
+caseB_project_then_join,caseB_project_then_join,project early then join,0,0,59,0,2025-10-27T18:37:08.115638
+caseB_project_then_join,caseB_project_then_join,project early then join,0,0,0,0,2025-10-27T18:37:08.115640
+caseB_project_then_join,caseB_project_then_join,project early then join,60,1560,0,59,2025-10-27T18:37:08.115641
+caseB_project_then_join,caseB_project_then_join,project early then join,0,0,59,0,2025-10-27T18:37:08.115643
+caseB_project_then_join,caseB_project_then_join,project early then join,0,0,0,0,2025-10-27T18:37:08.115644
+caseB_project_then_join,caseB_project_then_join,project early then join,9,153,0,59,2025-10-27T18:37:08.115646
+caseB_project_then_join,caseB_project_then_join,project early then join,0,0,59,0,2025-10-27T18:37:08.115648
+caseB_project_then_join,caseB_project_then_join,project early then join,0,0,0,0,2025-10-27T18:37:08.115649
+caseB_project_then_join,caseB_project_then_join,project early then join,8,109,0,59,2025-10-27T18:37:08.115651
+caseB_project_then_join,caseB_project_then_join,project early then join,0,0,59,0,2025-10-27T18:37:08.115652
+caseB_project_then_join,caseB_project_then_join,project early then join,0,0,0,0,2025-10-27T18:37:08.115654
+caseB_project_then_join,caseB_project_then_join,project early then join,24,1289,0,59,2025-10-27T18:37:08.115655
+caseB_project_then_join,caseB_project_then_join,project early then join,0,0,59,0,2025-10-27T18:37:08.115657
+caseB_project_then_join,caseB_project_then_join,project early then join,0,0,0,0,2025-10-27T18:37:08.115659
+caseB_project_then_join,caseB_project_then_join,project early then join,0,0,0,0,2025-10-27T18:37:08.115660
+caseB_project_then_join,caseB_project_then_join,project early then join,0,0,4981,59,2025-10-27T18:37:08.115662
+caseB_project_then_join,caseB_project_then_join,project early then join,0,0,0,0,2025-10-27T18:37:08.115663
+caseB_project_then_join,caseB_project_then_join,project early then join,638,12558,0,4981,2025-10-27T18:37:08.115665
+caseB_project_then_join,caseB_project_then_join,project early then join,220,6005,0,0,2025-10-27T18:37:08.115668
+caseB_project_then_join,caseB_project_then_join,project early then join,60,1560,0,0,2025-10-27T18:37:08.115670
+caseB_project_then_join,caseB_project_then_join,project early then join,0,0,59,0,2025-10-27T18:37:08.115673
+caseB_project_then_join,caseB_project_then_join,project early then join,0,0,0,0,2025-10-27T18:37:08.115675
+caseB_project_then_join,caseB_project_then_join,project early then join,0,0,0,0,2025-10-27T18:37:08.115677
+caseB_project_then_join,caseB_project_then_join,project early then join,0,0,4981,59,2025-10-27T18:37:08.115679
+caseB_project_then_join,caseB_project_then_join,project early then join,0,0,0,0,2025-10-27T18:37:08.115681
+caseB_project_then_join,caseB_project_then_join,project early then join,638,12558,0,4981,2025-10-27T18:37:08.115683
+caseB_project_then_join,caseB_project_then_join,project early then join,60,1560,0,0,2025-10-27T18:37:08.115685
+caseB_project_then_join,caseB_project_then_join,project early then join,220,6005,0,0,2025-10-27T18:37:08.115687
+caseB_project_then_join,caseB_project_then_join,project early then join,638,12558,0,0,2025-10-27T18:37:08.115690
+caseB_project_then_join,caseB_project_then_join,project early then join,60,1560,0,0,2025-10-27T18:37:08.115692
+caseB_project_then_join,caseB_project_then_join,project early then join,220,6005,0,0,2025-10-27T18:37:08.115694
+caseB_project_then_join,caseB_project_then_join,project early then join,24,1289,0,0,2025-10-27T18:37:08.115697
+caseB_project_then_join,caseB_project_then_join,project early then join,0,0,4981,0,2025-10-27T18:37:08.115699
+caseB_project_then_join,caseB_project_then_join,project early then join,0,0,0,0,2025-10-27T18:37:08.115702
+caseB_project_then_join,caseB_project_then_join,project early then join,220,6005,0,4981,2025-10-27T18:37:08.115704
+caseB_project_then_join,caseB_project_then_join,project early then join,60,1560,0,0,2025-10-27T18:37:08.115707
+caseB_project_then_join,caseB_project_then_join,project early then join,9,153,0,0,2025-10-27T18:37:08.115709
+caseB_project_then_join,caseB_project_then_join,project early then join,8,109,0,0,2025-10-27T18:37:08.115711
+caseB_project_then_join,caseB_project_then_join,project early then join,24,1289,0,0,2025-10-27T18:37:08.115713
+caseB_project_then_join,caseB_project_then_join,project early then join,0,0,59,0,2025-10-27T18:37:08.115715
+caseB_project_then_join,caseB_project_then_join,project early then join,0,0,0,0,2025-10-27T18:37:08.115716
+caseB_project_then_join,caseB_project_then_join,project early then join,638,12558,0,59,2025-10-27T18:37:08.115718
+caseB_project_then_join,caseB_project_then_join,project early then join,0,0,59,0,2025-10-27T18:37:08.115719
+caseB_project_then_join,caseB_project_then_join,project early then join,0,0,0,0,2025-10-27T18:37:08.115720
+caseB_project_then_join,caseB_project_then_join,project early then join,220,6005,0,59,2025-10-27T18:37:08.115722
+caseB_project_then_join,caseB_project_then_join,project early then join,0,0,59,0,2025-10-27T18:37:08.115724
+caseB_project_then_join,caseB_project_then_join,project early then join,0,0,0,0,2025-10-27T18:37:08.115726
+caseB_project_then_join,caseB_project_then_join,project early then join,60,1560,0,59,2025-10-27T18:37:08.115727
+caseB_project_then_join,caseB_project_then_join,project early then join,0,0,59,0,2025-10-27T18:37:08.115729
+caseB_project_then_join,caseB_project_then_join,project early then join,0,0,0,0,2025-10-27T18:37:08.115730
+caseB_project_then_join,caseB_project_then_join,project early then join,9,153,0,59,2025-10-27T18:37:08.115732
+caseB_project_then_join,caseB_project_then_join,project early then join,0,0,59,0,2025-10-27T18:37:08.115744
+caseB_project_then_join,caseB_project_then_join,project early then join,0,0,0,0,2025-10-27T18:37:08.115746
+caseB_project_then_join,caseB_project_then_join,project early then join,8,109,0,59,2025-10-27T18:37:08.115747
+caseB_project_then_join,caseB_project_then_join,project early then join,0,0,59,0,2025-10-27T18:37:08.115749
+caseB_project_then_join,caseB_project_then_join,project early then join,0,0,0,0,2025-10-27T18:37:08.115751
+caseB_project_then_join,caseB_project_then_join,project early then join,24,1289,0,59,2025-10-27T18:37:08.115752

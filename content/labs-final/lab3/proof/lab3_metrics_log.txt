@@ -1,0 +1,4 @@
+Input: 3.2 MiB
+Shuffle read: 53.2 KiB
+Task time: 22 min (0.2 s)
+Total tasks: 42

@@ -1,0 +1,6 @@
+run_id,query,representation,files_read,input_size_bytes,shuffle_read_bytes,shuffle_write_bytes,notes,timestamp
+r1,Q1,row,1,83800,0,0,,2025-10-27T19:05:54.972998
+r1,Q1,row,0,0,177,0,,2025-10-27T19:05:54.973026
+r1,Q1,row,0,0,0,0,,2025-10-27T19:05:54.973029
+r1,Q1,row,3,251392,0,177,,2025-10-27T19:05:54.973031
+r1,Q1,row,15000,846837,0,0,,2025-10-27T19:05:54.973034

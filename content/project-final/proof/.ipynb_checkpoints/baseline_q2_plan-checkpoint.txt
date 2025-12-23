@@ -1,0 +1,10 @@
+2025-11-19 23:01:31.256203
+AdaptiveSparkPlan isFinalPlan=false
++- Sort [nutriscore#2272 ASC NULLS FIRST], true, 0
+   +- Exchange rangepartitioning(nutriscore#2272 ASC NULLS FIRST, 200), ENSURE_REQUIREMENTS, [plan_id=2681]
+      +- HashAggregate(keys=[nutriscore#2272], functions=[avg(fat_100g#2266), avg(sugars_100g#2267), count(1)], output=[nutriscore#2272, avg_fat#2646, avg_sugars#2647, product_count#2648L])
+         +- Exchange hashpartitioning(nutriscore#2272, 200), ENSURE_REQUIREMENTS, [plan_id=2678]
+            +- HashAggregate(keys=[nutriscore#2272], functions=[partial_avg(fat_100g#2266), partial_avg(sugars_100g#2267), partial_count(1)], output=[nutriscore#2272, sum#2666, count#2667L, sum#2668, count#2669L, count#2670L])
+               +- Project [cast(fat_100g#556 as double) AS fat_100g#2266, cast(sugars_100g#594 as double) AS sugars_100g#2267, nutriscore_grade#522 AS nutriscore#2272]
+                  +- Filter (atleastnnonnulls(5, cast(fat_100g#556 as double), cast(sugars_100g#594 as double), cast(salt_100g#618 as double), countries_en#505, cast(from_unixtime(cast(created_t#467 as bigint), yyyy-MM-dd HH:mm:ss, Some(Europe/Paris)) as date)) AND isnotnull(nutriscore_grade#522))
+                     +- FileScan csv [created_t#467,countries_en#505,nutriscore_grade#522,fat_100g#556,sugars_100g#594,salt_100g#618] Batched: false, DataFilters: [atleastnnonnulls(5, cast(fat_100g#556 as double), cast(sugars_100g#594 as double), cast(salt_100..., Format: CSV, Location: InMemoryFileIndex(1 paths)[file:/home/justine/Data_engineering/Project/data/en.openfoodfacts.org...., PartitionFilters: [], PushedFilters: [IsNotNull(nutriscore_grade)], ReadSchema: struct<created_t:string,countries_en:string,nutriscore_grade:string,fat_100g:string,sugars_100g:s...

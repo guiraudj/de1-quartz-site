@@ -1,0 +1,12 @@
+2025-10-27 18:49:50.301125
+AdaptiveSparkPlan isFinalPlan=false
++- HashAggregate(keys=[order_id#403], functions=[], output=[order_id#403])
+   +- Exchange hashpartitioning(order_id#403, 200), ENSURE_REQUIREMENTS, [plan_id=3620]
+      +- HashAggregate(keys=[order_id#403], functions=[], output=[order_id#403])
+         +- Project [order_id#403]
+            +- BroadcastHashJoin [order_id#403], [order_id#407], Inner, BuildLeft, false
+               :- BroadcastExchange HashedRelationBroadcastMode(List(cast(input[0, int, false] as bigint)),false), [plan_id=3615]
+               :  +- Filter isnotnull(order_id#403)
+               :     +- FileScan csv [order_id#403] Batched: false, DataFilters: [isnotnull(order_id#403)], Format: CSV, Location: InMemoryFileIndex(1 paths)[file:/mnt/c/Users/Justine/Data_engineering/lab2/data/lab2_orders.csv], PartitionFilters: [], PushedFilters: [IsNotNull(order_id)], ReadSchema: struct<order_id:int>
+               +- Filter isnotnull(order_id#407)
+                  +- FileScan csv [order_id#407] Batched: false, DataFilters: [isnotnull(order_id#407)], Format: CSV, Location: InMemoryFileIndex(1 paths)[file:/mnt/c/Users/Justine/Data_engineering/lab2/data/lab2_order_items...., PartitionFilters: [], PushedFilters: [IsNotNull(order_id)], ReadSchema: struct<order_id:int>

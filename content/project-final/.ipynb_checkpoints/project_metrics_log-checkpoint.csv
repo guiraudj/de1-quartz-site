@@ -1,0 +1,7 @@
+run_id,query,phase,files_read,input_size_bytes,shuffle_read_bytes,shuffle_write_bytes,elapsed_ms,notes,timestamp
+r1,Q1,baseline,,,,,,, 
+r1,Q1,optimized,,,,,,, 
+r1,Q2,baseline,,,,,,, 
+r1,Q2,optimized,,,,,,, 
+r1,Q3,baseline,,,,,,, 
+r1,Q3,optimized,,,,,,, 

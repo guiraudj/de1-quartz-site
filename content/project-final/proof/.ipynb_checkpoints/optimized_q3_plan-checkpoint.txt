@@ -1,0 +1,10 @@
+2025-11-19 23:02:26.735534
+AdaptiveSparkPlan isFinalPlan=false
++- Sort [year#2271 DESC NULLS LAST], true, 0
+   +- Exchange rangepartitioning(year#2271 DESC NULLS LAST, 200), ENSURE_REQUIREMENTS, [plan_id=2753]
+      +- HashAggregate(keys=[year#2271], functions=[avg(sugars_100g#2267), count(1)], output=[year#2271, avg_sugars#2878, total_products#2879L])
+         +- Exchange hashpartitioning(year#2271, 200), ENSURE_REQUIREMENTS, [plan_id=2750]
+            +- HashAggregate(keys=[year#2271], functions=[partial_avg(sugars_100g#2267), partial_count(1)], output=[year#2271, sum#2887, count#2888L, count#2889L])
+               +- Project [year(cast(from_unixtime(cast(created_t#467 as bigint), yyyy-MM-dd HH:mm:ss, Some(Europe/Paris)) as date)) AS year#2271, cast(sugars_100g#594 as double) AS sugars_100g#2267]
+                  +- Filter ((isnotnull(created_t#467) AND atleastnnonnulls(5, cast(fat_100g#556 as double), cast(sugars_100g#594 as double), cast(salt_100g#618 as double), countries_en#505, cast(from_unixtime(cast(created_t#467 as bigint), yyyy-MM-dd HH:mm:ss, Some(Europe/Paris)) as date))) AND (year(cast(from_unixtime(cast(created_t#467 as bigint), yyyy-MM-dd HH:mm:ss, Some(Europe/Paris)) as date)) >= 2000))
+                     +- FileScan csv [created_t#467,countries_en#505,fat_100g#556,sugars_100g#594,salt_100g#618] Batched: false, DataFilters: [isnotnull(created_t#467), atleastnnonnulls(5, cast(fat_100g#556 as double), cast(sugars_100g#594..., Format: CSV, Location: InMemoryFileIndex(1 paths)[file:/home/justine/Data_engineering/Project/data/en.openfoodfacts.org...., PartitionFilters: [], PushedFilters: [IsNotNull(created_t)], ReadSchema: struct<created_t:string,countries_en:string,fat_100g:string,sugars_100g:string,salt_100g:string>
