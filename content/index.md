@@ -36,7 +36,7 @@ Nous avons comparé un pipeline "naïf" (Baseline) contre notre pipeline optimis
 >
 > [[project-final/DE1 — Final Project Report|Lire le Rapport Complet du Projet]]
 >
-> [[project-final/DE1_Project_Notebook_EN|Voir le Notebook Jupyter (Code Source)]]
+> [[static/nb/project-final/DE1_Project_Notebook_EN|Voir le Notebook Jupyter (Code Source)]]
 
 ---
 
@@ -50,11 +50,11 @@ Voici l'ensemble des travaux pratiques réalisés, couvrant les fondamentaux du 
 
 * **Lab 2 : SQL & Modélisation de données**
     * *Acquis :* Requêtes analytiques, structuration de la donnée.
-    * [[labs-final/lab2/assignment2_esiee|Accéder au Lab 2]]
+    * [[static/nb/labs-final/lab2_assignment/assignment2_esiee|Accéder au Lab 2]]
 
 * **Lab 3 : Pipelines de Données**
     * *Acquis :* Orchestration et transformation.
-    * [[labs-final/lab3/assignment3_esiee|Accéder au Lab 3]]
+    * [[static/nb/labs-final/lab3_assignment/assignment3_esiee|Accéder au Lab 3]]
 
 ---
 

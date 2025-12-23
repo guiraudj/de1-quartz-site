@@ -12,6 +12,7 @@ permalink: /labs-final/lab2/
 
 
 
+
 <!-- BEGIN:downloads -->
 ## Downloads
 - [lab2_metrics_log.csv](/labs-final/lab2/lab2_metrics_log.csv)
