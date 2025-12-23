@@ -13,6 +13,7 @@ permalink: /labs-final/lab2/proof/
 
 
 
+
 <!-- BEGIN:downloads -->
 ## Downloads
 - [plan_fact_join.txt](/labs-final/lab2/proof/plan_fact_join.txt)

@@ -2,65 +2,65 @@
 title: Home
 publish: true
 ---
-# Bienvenue sur notre site Data Engineering
+# Welcome to our Data Engineering Website
 
-> [!abstract] Informations
-> * **Binome Projet :** Justine Guirauden et Volcy Desmazures
-> * **Ecole :** ESIEE Paris (2025-2026)
-> * **Cours :** Data Engineering 1 (DE1)
+> [!abstract] Information
+> * **Project Team:** Justine Guirauden and Volcy Desmazures
+> * **School:** ESIEE Paris (2025-2026)
+> * **Course:** Data Engineering 1 (DE1)
 
-Ce site documente nos laboratoires pratiques ainsi que notre projet final sur l'optimisation de pipelines Big Data.
+This site documents our practical labs as well as our final project on Big Data pipeline optimization.
 
 ---
 
-## Projet Final : Local Lakehouse & Optimization
+## Final Project: Local Lakehouse & Optimization
 
-Pour valider ce semestre, nous avons construit un **Lakehouse local** capable de traiter des données réelles et complexes tout en respectant des objectifs de performance stricts (SLOs).
+To validate this semester, we built a **local Lakehouse** capable of processing real and complex data while meeting strict performance objectives (SLOs).
 
-### Le Sujet : Analyse Nutritionnelle (Open Food Facts)
-Nous avons analysé l'évolution de la qualité nutritionnelle des produits alimentaires mondiaux (Sucre, Gras, Nutriscore).
-* **Données :** ~1.1 GB de CSV brut (Raw), très dénormalisé (>150 colonnes).
-* **Stack :** PySpark (Spark 3.x), Parquet, Local Single Node.
+### The Topic: Nutritional Analysis (Open Food Facts)
+We analyzed the evolution of the nutritional quality of global food products (Sugar, Fat, Nutriscore).
+* **Data:** ~1.1 GB of raw CSV, highly denormalized (>150 columns).
+* **Stack:** PySpark (Spark 3.x), Parquet, Local Single Node.
 
-### Résultats Clés
-Nous avons comparé un pipeline "naïf" (Baseline) contre notre pipeline optimisé (Silver/Gold layers).
+### Key Results
+We compared a "naive" pipeline (Baseline) against our optimized pipeline (Silver/Gold layers).
 
-| Metrique | Resultat obtenu | Impact Technique |
+| Metric | Result Obtained | Technical Impact |
 | :--- | :--- | :--- |
-| **Stockage** | **-99.9%** (1.1GB -> 0.34MB) | Compression Snappy + Nettoyage drastique |
-| **Vitesse (Q3)** | **x3.4 plus rapide** | *Predicate Pushdown* & *Data Skipping* |
-| **Latence** | **228 ms** | Lecture optimisée via tri (*sortWithinPartitions*) |
+| **Storage** | **-99.9%** (1.1GB -> 0.34MB) | Snappy Compression + Drastic Cleaning |
+| **Speed (Q3)** | **x3.4 faster** | *Predicate Pushdown* & *Data Skipping* |
+| **Latency** | **228 ms** | Optimized reading via sorting (*sortWithinPartitions*) |
 
-> [!success] Accès au rapport
-> Ce projet démontre comment une conception physique rigoureuse (Tri, Partitionnement, Projection) peut transformer un jeu de données inutilisable en Datamart performant.
+> [!success] Access the Report
+> This project demonstrates how rigorous physical design (Sorting, Partitioning, Projection) can transform an unusable dataset into a high-performance Datamart.
 >
-> [[project-final/DE1 — Final Project Report|Lire le Rapport Complet du Projet]]
+> [[project-final/DE1 — Final Project Report|Read the Full Project Report]]
 >
-> [[static/nb/project-final/DE1_Project_Notebook_EN|Voir le Notebook Jupyter (Code Source)]]
+> [[static/nb/project-final/DE1_Project_Notebook_EN|View the Jupyter Notebook (Source Code)]]
 
 ---
 
-## Laboratoires (Labs)
+## Laboratories (Labs)
 
-Voici l'ensemble des travaux pratiques réalisés, couvrant les fondamentaux du Data Engineering, de la conteneurisation aux pipelines de données.
+Here are all the practical labs completed, covering Data Engineering fundamentals, from containerization to data pipelines.
 
-* **Lab 1 : Environnement & Docker**
-    * *Acquis :* Installation de l'environnement, conteneurisation.
-    * [[static/nb/labs-final/lab1_assignment/assignment1_esiee.html|Accéder au Lab 1]]
+* **Lab 1: Environment & Docker**
+    * *Skills Acquired:* Environment setup, containerization.
+    * [[static/nb/labs-final/lab1_assignment/assignment1_esiee.html|Access Lab 1]]
 
-* **Lab 2 : SQL & Modélisation de données**
-    * *Acquis :* Requêtes analytiques, structuration de la donnée.
-    * [[static/nb/labs-final/lab2_assignment/assignment2_esiee|Accéder au Lab 2]]
+* **Lab 2: SQL & Data Modeling**
+    * *Skills Acquired:* Analytical queries, data structuring.
+    * [[static/nb/labs-final/lab2_assignment/assignment2_esiee|Access Lab 2]]
 
-* **Lab 3 : Pipelines de Données**
-    * *Acquis :* Orchestration et transformation.
-    * [[static/nb/labs-final/lab3_assignment/assignment3_esiee|Accéder au Lab 3]]
+* **Lab 3: Data Pipelines**
+    * *Skills Acquired:* Orchestration and transformation.
+    * [[static/nb/labs-final/lab3_assignment/assignment3_esiee|Access Lab 3]]
 
 ---
 
-## À propos de ce site
+## About this site
 
-Ce portfolio est construit selon l'approche **"Docs as Code"** :
+This portfolio is built using the **"Docs as Code"** approach:
 * Generated with [Quartz](https://quartz.jzhao.xyz/).
 * Hosted on **Cloudflare Pages**.
 * Secured by **Cloudflare Zero Trust** (Access Policies).
