@@ -2,7 +2,7 @@
 title: Home
 publish: true
 ---
-# Welcome to our Data Engineering Website
+# Welcome to our Data Engineering website
 
 > [!abstract] Information
 > * **Project Team:** Justine Guirauden and Volcy Desmazures
@@ -15,7 +15,7 @@ This site documents our practical labs as well as our final project on Big Data 
 
 ## Final Project: Local Lakehouse & Optimization
 
-To validate this semester, we built a **local Lakehouse** capable of processing real and complex data while meeting strict performance objectives (SLOs).
+We built a **local Lakehouse** capable of processing real and complex data while meeting strict performance objectives (SLOs).
 
 ### The Topic: Nutritional Analysis (Open Food Facts)
 We analyzed the evolution of the nutritional quality of global food products (Sugar, Fat, Nutriscore).
@@ -40,7 +40,7 @@ We compared a "naive" pipeline (Baseline) against our optimized pipeline (Silver
 
 ---
 
-## Laboratories (Labs)
+## Labs
 
 Here are all the practical labs completed, covering Data Engineering fundamentals, from containerization to data pipelines.
 

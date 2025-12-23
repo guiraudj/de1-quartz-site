@@ -14,6 +14,7 @@ permalink: /project-final/proof/.ipynb_checkpoints/
 
 
 
+
 <!-- BEGIN:downloads -->
 ## Downloads
 - [baseline_q2_plan-checkpoint.txt](/project-final/proof/.ipynb_checkpoints/baseline_q2_plan-checkpoint.txt)
