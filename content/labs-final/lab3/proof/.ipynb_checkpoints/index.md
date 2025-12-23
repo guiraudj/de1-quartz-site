@@ -8,6 +8,7 @@ permalink: /labs-final/lab3/proof/.ipynb_checkpoints/
 
 
 
+
 <!-- BEGIN:downloads -->
 ## Downloads
 - [lab3_metrics_log-checkpoint.txt](/labs-final/lab3/proof/.ipynb_checkpoints/lab3_metrics_log-checkpoint.txt)
